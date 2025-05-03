@@ -12,7 +12,6 @@ A full-stack **Weather Application** that allows users to fetch real-time weathe
 * [Project Structure](#project-structure)
 * [Getting Started](#getting-started)
 * [API Usage](#api-usage)
-* [Screenshots](#screenshots)
 * [Contributing](#contributing)
 * [License](#license)
 
